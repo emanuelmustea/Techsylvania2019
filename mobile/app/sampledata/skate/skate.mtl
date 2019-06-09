@@ -1,0 +1,73 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Photo_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.501961 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/Photo_Texture.jpg
+
+newmtl _Metal_Embossed_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Metal_Embossed_4.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/Metal_Aluminum_Anodized.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Embossed
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/Metal_Embossed.jpg
+
+newmtl _Stone_Pavers_Flagstone_Gray_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Stone_Pavers_Flagstone_Gray_1.jpg
+
+newmtl _Metal_Embossed_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Metal_Embossed_1.jpg
+
+newmtl _Metal_Corrogated_Shiny_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Metal_Corrogated_Shiny_2.jpg
+
+newmtl _Metal_Embossed_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Metal_Embossed_3.jpg
+
+newmtl _Metal_Aluminum_Anodized_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd skate/_Metal_Aluminum_Anodized_3.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+

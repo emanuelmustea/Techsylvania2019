@@ -1,0 +1,53 @@
+
+
+<div class="login-form">
+    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-xl-2">
+        <div class="card card-user">
+            <div class="image">
+                <img src="/assets/img/banking.jpg" alt="..."/>
+            </div>
+            <div class="content">
+                <div class="author">
+                    <a href="#">
+                        <img class="avatar border-gray" src="/assets/img/default-avatar.png" alt="..."/>
+                    </a>
+                        <h4 class="title">Sign In<br />
+                            <small>into your banking account</small>
+                        </h4>
+                        <form >
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Username or Email</label>
+                                        <input [(ngModel)]="username" name="username" type="text" class="form-control" placeholder="eg. johndoe@example.com">
+                                    </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="form-group">
+                                          <label>Password</label>
+                                          <input [(ngModel)]="password" name="password" type="password" class="form-control" placeholder="eg.··········· ">
+                                      </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="form-group">
+                                          <button (click)="handleSubmit()" role="submit" class="btn btn-block btn-info ">Sign In</button>
+                                      </div>
+                                    </div>
+                            </div>
+                          </form>
+                </div>
+               
+            </div>
+            <hr>
+            <div class="text-center">
+                <h4 class="title">
+                  <small>Don't have an account?</small>
+              </h4>
+              <p class="padding">
+                <button class="btn btn-secondary btn-block btn-outline">Create an account now</button>
+              </p>
+            </div>
+        </div>
+      </div>
+</div>
+

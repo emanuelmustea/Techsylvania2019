@@ -1,0 +1,200 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Brick_Rough_Tan_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_1.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.533333 0.603922
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brick_Rough_Tan_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_3.jpg
+
+newmtl _Brick_Antique_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_3.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brick_Antique_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_1.jpg
+
+newmtl Brick_Rough_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Brick_Rough_Tan.jpg
+
+newmtl _Brick_Rough_Tan_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_2.jpg
+
+newmtl Brick_Antique
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Brick_Antique.jpg
+
+newmtl Color_C17
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.239216 0.078431
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Rusted
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.458824 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Metal_Rusted.jpg
+
+newmtl _Metal_Rusted_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.458824 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Metal_Rusted_2.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Metal_Aluminum_Anodized.jpg
+
+newmtl Color_007
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_C10
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.717647 0.639216
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brick_Antique_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_5.jpg
+
+newmtl _Brick_Antique_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_11.jpg
+
+newmtl _Brick_Antique_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_7.jpg
+
+newmtl _Brick_Rough_Tan_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_5.jpg
+
+newmtl _Brick_Antique_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_10.jpg
+
+newmtl _Brick_Rough_Tan_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_6.jpg
+
+newmtl _Brick_Rough_Tan_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.552941 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Rough_Tan_7.jpg
+
+newmtl _Metal_Rusted_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.482353 0.372549
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Metal_Rusted_1.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Color_006
+Ka 0.000000 0.000000 0.000000
+Kd 0.337255 0.337255 0.337255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Stone_Granite_Midnite
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.372549 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Stone_Granite_Midnite.jpg
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.133333 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/Wood_Cherry_Original.jpg
+
+newmtl _Brick_Antique_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_13.jpg
+
+newmtl _Brick_Antique_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_14.jpg
+
+newmtl _Brick_Antique_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.411765 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Brick_Antique_15.jpg
+
+newmtl _Metal_Rusted_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.458824 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Metal_Rusted_3.jpg
+
+newmtl _Metal_Rusted_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.458824 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd turn/_Metal_Rusted_4.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.313725 0.313725 0.313725
+Ks 0.330000 0.330000 0.330000
+

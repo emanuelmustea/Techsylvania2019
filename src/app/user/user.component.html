@@ -1,0 +1,113 @@
+<div class="main-content" >
+    <div class="container-fluid">
+        <div class="row">
+            
+                <div class="col-md-8 col-xs-12 row">
+                        <div class="col-md-6 col-xs-12 row">
+                        <div class="fancy-card">
+                            <div class="icon-area">
+                                <i class="pe-7s-angle-down-circle"></i>
+                            </div>
+                            <div class="values">
+                                <div class="currency">INCOMES</div>
+                                <div class="value">$ {{incomings.toFixed(2)}}</div>
+                            </div>
+                            <div class="footer">
+                                    <hr>
+                                    <div class="stats">
+                                      <i class="fa fa-clock-o"></i> Just updated
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                            <div class="fancy-card">
+                                <div class="icon-area">
+                                    <i class="pe-7s-angle-up-circle"></i>
+                                </div>
+                                <div class="values">
+                                    <div class="currency">OUTCOMES</div>
+                                    <div class="value">$ {{outcomes.toFixed(2)}}</div>
+                                </div>
+                                <div class="footer">
+                                        <hr>
+                                        <div class="stats">
+                                          <i class="fa fa-clock-o"></i> Just updated
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                                <div class="fancy-card flexible">
+                                    <div class="icon-area" [style.background]="'#f39c12'">
+                                        <i class="pe-7s-star"></i>
+                                    </div>
+                                    <div class="values">
+                                        <div class="currency">TOP INTERESTS</div>
+                                        <div class="value" *ngFor="let outcome of topOutcomes;let index = index">{{index+1}}. {{outcome.name}} <span class="right">${{outcome.value.toFixed(2)}}</span></div>
+                                    </div>
+                                    <div class="footer">
+                                            <hr>
+                                            <div class="stats">
+                                              <i class="fa fa-clock-o"></i> Just updated
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                    <div class="fancy-card flexible">
+                                        <div class="icon-area" [style.background]="'#f39c12'">
+                                            <i class="pe-7s-portfolio"></i>
+                                        </div>
+                                        <div class="values">
+                                            <div class="currency">TOP COMPANIES</div>
+                                            <div class="value" *ngFor="let company of topCompanies;let index = index">{{index+1}}. {{company.name}} <span class="right">${{company.value.toFixed(2)}}</span></div>
+                                        </div>
+                                        <div class="footer">
+                                                <hr>
+                                                <div class="stats">
+                                                  <i class="fa fa-clock-o"></i> Just updated
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                </div>
+            <div class="col-md-4">
+                            <div class="fancy-card">
+                                <div class="icon-area">
+                                    <i class="pe-7s-cash"></i>
+                                </div>
+                                <div class="values">
+                                    <div class="currency">Balance</div>
+                                    <div class="value">$ {{(incomings-outcomes).toFixed(2)}}</div>
+                                </div>
+                                <div class="footer">
+                                        <hr>
+                                        <div class="stats">
+                                          <i class="fa fa-clock-o"></i> Just updated
+                                        </div>
+                                </div>
+                            </div>
+                <div class="card card-user">
+                    <div class="image">
+                        <img src="assets/img/banking.jpg" alt="..."/>
+                    </div>
+                    <div class="content">
+                        <div class="author">
+                            <a href="#">
+                                <img class="avatar border-gray" src="assets/img/default-avatar.png" alt="..."/>
+
+                                <h4 class="title">{{userData.name}}<br />
+                                    <small>{{userData.email}}</small>
+                                </h4>
+                            </a>
+                        </div>
+                        <p class="description text-center"> 
+                            I use this app very often because it helps me managing my finances very well.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

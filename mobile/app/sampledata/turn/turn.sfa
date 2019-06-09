@@ -1,0 +1,1002 @@
+{
+  materials: [
+    {
+      name: '_Brick_Rough_Tan_1',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_1',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'BackColor',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.54509799999999997,
+            0.53333299999999995,
+            0.60392199999999996,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Rough_Tan_3',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_3',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_3',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_3',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'FrontColor',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.89019599999999999,
+            0.88235300000000005,
+            0.87058800000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_1',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_1',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Brick_Rough_Tan',
+      parameters: [
+        {
+          baseColor: 'Brick_Rough_Tan',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Rough_Tan_2',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_2',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Brick_Antique',
+      parameters: [
+        {
+          baseColor: 'Brick_Antique',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Color_C17',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.40000000000000002,
+            0.23921600000000001,
+            0.078431000000000001,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Metal_Rusted',
+      parameters: [
+        {
+          baseColor: 'Metal_Rusted',
+        },
+        {
+          baseColorTint: [
+            0.72156900000000002,
+            0.45882400000000001,
+            0.35686299999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Rusted_2',
+      parameters: [
+        {
+          baseColor: '_Metal_Rusted_2',
+        },
+        {
+          baseColorTint: [
+            0.72156900000000002,
+            0.45882400000000001,
+            0.35686299999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Metal_Aluminum_Anodized',
+      parameters: [
+        {
+          baseColor: 'Metal_Aluminum_Anodized',
+        },
+        {
+          baseColorTint: [
+            0.792157,
+            0.819608,
+            0.85882400000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Color_007',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.22745099999999999,
+            0.22745099999999999,
+            0.22745099999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Color_000',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Color_C10',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.80000000000000004,
+            0.71764700000000003,
+            0.63921600000000001,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_5',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_5',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_11',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_11',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_7',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_7',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Rough_Tan_5',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_5',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_10',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_10',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Rough_Tan_6',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_6',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Rough_Tan_7',
+      parameters: [
+        {
+          baseColor: '_Brick_Rough_Tan_7',
+        },
+        {
+          baseColorTint: [
+            0.65490199999999998,
+            0.55294100000000002,
+            0.32156899999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Rusted_1',
+      parameters: [
+        {
+          baseColor: '_Metal_Rusted_1',
+        },
+        {
+          baseColorTint: [
+            0.75686299999999995,
+            0.48235299999999998,
+            0.37254900000000002,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Translucent_Glass_Gray',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.50196099999999999,
+            0.50196099999999999,
+            0.50196099999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: 0.5,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Color_006',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.33725500000000003,
+            0.33725500000000003,
+            0.33725500000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Stone_Granite_Midnite',
+      parameters: [
+        {
+          baseColor: 'Stone_Granite_Midnite',
+        },
+        {
+          baseColorTint: [
+            0.38431399999999999,
+            0.37254900000000002,
+            0.376471,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Wood_Cherry_Original',
+      parameters: [
+        {
+          baseColor: 'Wood_Cherry_Original',
+        },
+        {
+          baseColorTint: [
+            0.23921600000000001,
+            0.13333300000000001,
+            0.062744999999999995,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_13',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_13',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_14',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_14',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Brick_Antique_15',
+      parameters: [
+        {
+          baseColor: '_Brick_Antique_15',
+        },
+        {
+          baseColorTint: [
+            0.57647099999999996,
+            0.41176499999999999,
+            0.27843099999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Rusted_3',
+      parameters: [
+        {
+          baseColor: '_Metal_Rusted_3',
+        },
+        {
+          baseColorTint: [
+            0.72156900000000002,
+            0.45882400000000001,
+            0.35686299999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Rusted_4',
+      parameters: [
+        {
+          baseColor: '_Metal_Rusted_4',
+        },
+        {
+          baseColorTint: [
+            0.72156900000000002,
+            0.45882400000000001,
+            0.35686299999999999,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/turn/turn.obj',
+    name: 'turn',
+    recenter: 'root',
+    scale: 0.0097439999999999992,
+  },
+  samplers: [
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_1.jpg',
+      name: '_Brick_Rough_Tan_1',
+      pipeline_name: 'turn/_Brick_Rough_Tan_1.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_3.jpg',
+      name: '_Brick_Rough_Tan_3',
+      pipeline_name: 'turn/_Brick_Rough_Tan_3.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_3.jpg',
+      name: '_Brick_Antique_3',
+      pipeline_name: 'turn/_Brick_Antique_3.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_1.jpg',
+      name: '_Brick_Antique_1',
+      pipeline_name: 'turn/_Brick_Antique_1.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_2.jpg',
+      name: '_Brick_Rough_Tan_2',
+      pipeline_name: 'turn/_Brick_Rough_Tan_2.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Brick_Rough_Tan.jpg',
+      name: 'Brick_Rough_Tan',
+      pipeline_name: 'turn/Brick_Rough_Tan.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Metal_Rusted_2.jpg',
+      name: '_Metal_Rusted_2',
+      pipeline_name: 'turn/_Metal_Rusted_2.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Brick_Antique.jpg',
+      name: 'Brick_Antique',
+      pipeline_name: 'turn/Brick_Antique.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Metal_Rusted.jpg',
+      name: 'Metal_Rusted',
+      pipeline_name: 'turn/Metal_Rusted.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Metal_Aluminum_Anodized.jpg',
+      name: 'Metal_Aluminum_Anodized',
+      pipeline_name: 'turn/Metal_Aluminum_Anodized.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_5.jpg',
+      name: '_Brick_Antique_5',
+      pipeline_name: 'turn/_Brick_Antique_5.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_11.jpg',
+      name: '_Brick_Antique_11',
+      pipeline_name: 'turn/_Brick_Antique_11.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_7.jpg',
+      name: '_Brick_Antique_7',
+      pipeline_name: 'turn/_Brick_Antique_7.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_5.jpg',
+      name: '_Brick_Rough_Tan_5',
+      pipeline_name: 'turn/_Brick_Rough_Tan_5.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_10.jpg',
+      name: '_Brick_Antique_10',
+      pipeline_name: 'turn/_Brick_Antique_10.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_6.jpg',
+      name: '_Brick_Rough_Tan_6',
+      pipeline_name: 'turn/_Brick_Rough_Tan_6.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Rough_Tan_7.jpg',
+      name: '_Brick_Rough_Tan_7',
+      pipeline_name: 'turn/_Brick_Rough_Tan_7.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Metal_Rusted_1.jpg',
+      name: '_Metal_Rusted_1',
+      pipeline_name: 'turn/_Metal_Rusted_1.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Stone_Granite_Midnite.jpg',
+      name: 'Stone_Granite_Midnite',
+      pipeline_name: 'turn/Stone_Granite_Midnite.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/Wood_Cherry_Original.jpg',
+      name: 'Wood_Cherry_Original',
+      pipeline_name: 'turn/Wood_Cherry_Original.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_13.jpg',
+      name: '_Brick_Antique_13',
+      pipeline_name: 'turn/_Brick_Antique_13.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_14.jpg',
+      name: '_Brick_Antique_14',
+      pipeline_name: 'turn/_Brick_Antique_14.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Brick_Antique_15.jpg',
+      name: '_Brick_Antique_15',
+      pipeline_name: 'turn/_Brick_Antique_15.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Metal_Rusted_3.jpg',
+      name: '_Metal_Rusted_3',
+      pipeline_name: 'turn/_Metal_Rusted_3.jpg',
+    },
+    {
+      file: 'sampledata/turn\\turn/_Metal_Rusted_4.jpg',
+      name: '_Metal_Rusted_4',
+      pipeline_name: 'turn/_Metal_Rusted_4.jpg',
+    },
+  ],
+  version: '0.52:1',
+}

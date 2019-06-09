@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+.ticket {
+  width: 100%;
+  margin-bottom:15px;
+  height: 160px;
+  transition: all 0.4s ease;
+}
+.ornament {
+  background: #fbad18;
+  width: 65%;
+  height: inherit;
+  position: absolute;
+  border: 1px solid #ffa726;
+  border-right: none;
+  transition: all 0.4s ease;
+  z-index: 1;
+}
+.ornament__cut {
+  background: #efefef;
+  width: 22px;
+  height: 12.1px;
+  position: absolute;
+  left: 10%;
+  z-index: 5;
+}
+.ornament__cut--1 {
+  top: -1%;
+  border-radius: 0 0 100px 100px;
+}
+.ornament__cut--2 {
+  bottom: -1%;
+  border-radius: 100px 100px 0 0;
+}
+.ornament__tail {
+  background: #f57c00;
+  width: 12px;
+  height: inherit;
+  position: absolute;
+  top: -1px;
+  left: 0;
+}
+.illustration {
+  background: white;
+  width: 35%;
+  height: inherit;
+  position: absolute;
+  right: 0;
+  transition: all 0.4s ease;
+  border: 1px inset rgba(0, 0, 0, 0.08);
+  border-left: none;
+  border-radius: 0 4px 4px 0;
+  overflow: hidden;
+}
+.new-label {
+  background: #ffa726;
+  text-align: center;
+  padding: 0.2em;
+  border-radius: 8px;
+  position: absolute;
+  top: 4%;
+  right: 4%;
+  color: white;
+  font-size: 16px;
+}
+.new-label:after{
+    content:'% off';
+}
+.spikes {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  margin-left: 0px;
+}
+.spike {
+  background: #ffa726;
+  width: 20px;
+  height: 20px;
+  transform: rotate(45deg);
+}
+.content {
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+.content p {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.content .link-join {
+  background: white;
+  border-radius: 4px;
+  padding: 0.3em 1em;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffa726;
+  text-decoration: none;
+}
+.content .link-join:focus, .content .link-join:active, .content .link-join:hover {
+  color: #ffa726;
+  text-decoration: none;
+}

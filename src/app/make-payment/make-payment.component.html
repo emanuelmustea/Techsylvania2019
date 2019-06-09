@@ -1,0 +1,23 @@
+<!-- name - Merchant Name
+value - amount -->
+<form >
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Merchant Name</label>
+                <input [(ngModel)]="name" name="name" type="text" class="form-control" placeholder="eg. Merchantus">
+            </div>
+          </div>
+          <div class="col-md-12">
+              <div class="form-group">
+                  <label>Amount</label>
+                  <input [(ngModel)]="value" name="value" type="text" class="form-control" placeholder="5.00">
+              </div>
+          </div>
+          <div class="col-md-12">
+              <div class="form-group">
+                  <button (click)="handlePaymentSubmit()" role="submit" class="btn btn-success btn-block">Make payment</button>
+              </div>
+            </div>
+    </div>
+  </form>

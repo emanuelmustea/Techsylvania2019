@@ -1,0 +1,350 @@
+{
+  materials: [
+    {
+      name: 'FrontColor',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Photo_Texture',
+      parameters: [
+        {
+          baseColor: 'Photo_Texture',
+        },
+        {
+          baseColorTint: [
+            0.51372499999999999,
+            0.50196099999999999,
+            0.49019600000000002,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Embossed_4',
+      parameters: [
+        {
+          baseColor: '_Metal_Embossed_4',
+        },
+        {
+          baseColorTint: [
+            0.56470600000000004,
+            0.56470600000000004,
+            0.56470600000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Metal_Aluminum_Anodized',
+      parameters: [
+        {
+          baseColor: 'Metal_Aluminum_Anodized',
+        },
+        {
+          baseColorTint: [
+            0.792157,
+            0.819608,
+            0.85882400000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'BackColor',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.67058799999999996,
+            0.69019600000000003,
+            0.80000000000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'Metal_Embossed',
+      parameters: [
+        {
+          baseColor: 'Metal_Embossed',
+        },
+        {
+          baseColorTint: [
+            0.56470600000000004,
+            0.56470600000000004,
+            0.56470600000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Stone_Pavers_Flagstone_Gray_1',
+      parameters: [
+        {
+          baseColor: '_Stone_Pavers_Flagstone_Gray_1',
+        },
+        {
+          baseColorTint: [
+            0.63529400000000003,
+            0.63529400000000003,
+            0.63529400000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Embossed_1',
+      parameters: [
+        {
+          baseColor: '_Metal_Embossed_1',
+        },
+        {
+          baseColorTint: [
+            0.56470600000000004,
+            0.56470600000000004,
+            0.56470600000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Corrogated_Shiny_2',
+      parameters: [
+        {
+          baseColor: '_Metal_Corrogated_Shiny_2',
+        },
+        {
+          baseColorTint: [
+            0.75686299999999995,
+            0.75686299999999995,
+            0.75686299999999995,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Embossed_3',
+      parameters: [
+        {
+          baseColor: '_Metal_Embossed_3',
+        },
+        {
+          baseColorTint: [
+            0.56470600000000004,
+            0.56470600000000004,
+            0.56470600000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_Metal_Aluminum_Anodized_3',
+      parameters: [
+        {
+          baseColor: '_Metal_Aluminum_Anodized_3',
+        },
+        {
+          baseColorTint: [
+            0.792157,
+            0.819608,
+            0.85882400000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/skate/skate.obj',
+    name: 'skate',
+    recenter: 'root',
+    scale: 0.43897799999999998,
+  },
+  samplers: [
+    {
+      file: 'sampledata/skate\\skate/_Metal_Aluminum_Anodized_3.jpg',
+      name: '_Metal_Aluminum_Anodized_3',
+      pipeline_name: 'skate/_Metal_Aluminum_Anodized_3.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/_Metal_Corrogated_Shiny_2.jpg',
+      name: '_Metal_Corrogated_Shiny_2',
+      pipeline_name: 'skate/_Metal_Corrogated_Shiny_2.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/Photo_Texture.jpg',
+      name: 'Photo_Texture',
+      pipeline_name: 'skate/Photo_Texture.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/_Stone_Pavers_Flagstone_Gray_1.jpg',
+      name: '_Stone_Pavers_Flagstone_Gray_1',
+      pipeline_name: 'skate/_Stone_Pavers_Flagstone_Gray_1.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/_Metal_Embossed_4.jpg',
+      name: '_Metal_Embossed_4',
+      pipeline_name: 'skate/_Metal_Embossed_4.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/_Metal_Embossed_3.jpg',
+      name: '_Metal_Embossed_3',
+      pipeline_name: 'skate/_Metal_Embossed_3.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/Metal_Aluminum_Anodized.jpg',
+      name: 'Metal_Aluminum_Anodized',
+      pipeline_name: 'skate/Metal_Aluminum_Anodized.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/Metal_Embossed.jpg',
+      name: 'Metal_Embossed',
+      pipeline_name: 'skate/Metal_Embossed.jpg',
+    },
+    {
+      file: 'sampledata/skate\\skate/_Metal_Embossed_1.jpg',
+      name: '_Metal_Embossed_1',
+      pipeline_name: 'skate/_Metal_Embossed_1.jpg',
+    },
+  ],
+  version: '0.52:1',
+}

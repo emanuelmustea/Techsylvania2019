@@ -1,0 +1,51 @@
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <lbd-chart
+                  [title]="'Categories'"
+                  [subtitle]="'realtime Data'"
+                  [footerIconClass]="'fa fa-clock-o'"
+                  [footerText]="'Campaign sent 2 days ago'"
+                  [type]="'doughnut'"
+                  [data]="categoryData || []"
+                  [label]="'dsadsadas'"
+                  [labels]="categoryLabels || []"
+                  [height]="480"
+                  >
+                </lbd-chart>
+            </div>
+            <div class="col-md-6 row">
+                    <div class="col-md-12">
+                            <lbd-chart
+                              [title]="'Transactions'"
+                              [subtitle]="'Monthly'"
+                              [footerIconClass]="'fa fa-clock-o'"
+                              [footerText]="'Campaign sent 2 days ago'"
+                              [type]="'bar'"
+                              [data]="monthTransactionsData || []"
+                              [label]="'Expenses in USD'"
+                              [labels]="monthTransactionsLabels || []"
+                              [height]="158"
+                              >
+                            </lbd-chart>
+                        </div>
+                        <div class="col-md-12">
+                            <lbd-chart
+                              [title]="'Transactions'"
+                              [subtitle]="'Daily'"
+                              [footerIconClass]="'fa fa-clock-o'"
+                              [footerText]="'Campaign sent 2 days ago'"
+                              [type]="'line'"
+                              [data]="dayTransactionsData || []"
+                              [label]="'Expenses in USD'"
+                              [labels]="dayTransactionsLabels || []"
+                              [color]="2"
+                              [height]="160"
+                              >
+                            </lbd-chart>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
